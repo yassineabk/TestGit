@@ -18,7 +18,7 @@ int y=55;
 out.print("X ="+x);
 %>
 <h3> valeur de X= <%= x %></h3>
-<h3> Somme de 5 et 4= <%= somme(5,4) %></h3>
+<h3> Somme de 13 et 11= <%= somme(13,11) %></h3>
 
 <%! int z=10;
 	int somme(int a, int b){
